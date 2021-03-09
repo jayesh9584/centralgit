@@ -1,6 +1,8 @@
 #! /bin/bash
 
-read 'Enter your user name : ' u
-read 'Enter your password :  '
+read  -p 'Enter your user name : ' u
+read -sp 'Enter your password :  ' p
+echo your usernsame is $u
+echo your password is $p
 
 
