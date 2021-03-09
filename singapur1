@@ -1,0 +1,8 @@
+ #! /bin/bash
+
+echo "Enter your name : "
+read n
+echo "Enter your age  :  "
+read a
+ 
+echo hii $n your age is $a

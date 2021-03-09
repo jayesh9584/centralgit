@@ -1,8 +1,14 @@
-#! /bin/bash
+to create a dir and  go insude it 
+2 - git init
+3 - create a file and writr some text 
+4 - git add .
+5 - git status
+6 - git commit -m " leave note mark"
+7 - git status
+8 - git log
+9 - git show <commit id >
+10 - git remotr add origin master < github urel>
+11 - git push -u origin master 
+    user name
 
-read  -p 'Enter your user name : ' u
-read -sp 'Enter your password :  ' p
-echo your usernsame is $u
-echo your password is $p
-
-
+    password -
