@@ -1,1 +1,6 @@
-hello i am from mumbai
+#! /bin/bash
+
+read 'Enter your user name : ' u
+read 'Enter your password :  '
+
+
